@@ -1,0 +1,28 @@
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\TexEditor\TextEdito\bin\Debug\net9.0\TextEdito.exe
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\TexEditor\TextEdito\bin\Debug\net9.0\TextEdito.deps.json
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\TexEditor\TextEdito\bin\Debug\net9.0\TextEdito.runtimeconfig.json
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\TexEditor\TextEdito\bin\Debug\net9.0\TextEdito.dll
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\TexEditor\TextEdito\bin\Debug\net9.0\TextEdito.pdb
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\TexEditor\TextEdito\obj\Debug\net9.0\TextEdito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\TexEditor\TextEdito\obj\Debug\net9.0\TextEdito.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\TexEditor\TextEdito\obj\Debug\net9.0\TextEdito.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\TexEditor\TextEdito\obj\Debug\net9.0\TextEdito.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\TexEditor\TextEdito\obj\Debug\net9.0\TextEdito.dll
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\TexEditor\TextEdito\obj\Debug\net9.0\refint\TextEdito.dll
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\TexEditor\TextEdito\obj\Debug\net9.0\TextEdito.pdb
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\TexEditor\TextEdito\obj\Debug\net9.0\TextEdito.genruntimeconfig.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\TexEditor\TextEdito\obj\Debug\net9.0\ref\TextEdito.dll
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\Nova pasta\TextEdito\bin\Debug\net9.0\TextEdito.exe
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\Nova pasta\TextEdito\bin\Debug\net9.0\TextEdito.deps.json
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\Nova pasta\TextEdito\bin\Debug\net9.0\TextEdito.runtimeconfig.json
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\Nova pasta\TextEdito\bin\Debug\net9.0\TextEdito.dll
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\Nova pasta\TextEdito\bin\Debug\net9.0\TextEdito.pdb
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\Nova pasta\TextEdito\obj\Debug\net9.0\TextEdito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\Nova pasta\TextEdito\obj\Debug\net9.0\TextEdito.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\Nova pasta\TextEdito\obj\Debug\net9.0\TextEdito.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\Nova pasta\TextEdito\obj\Debug\net9.0\TextEdito.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\Nova pasta\TextEdito\obj\Debug\net9.0\TextEdito.dll
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\Nova pasta\TextEdito\obj\Debug\net9.0\refint\TextEdito.dll
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\Nova pasta\TextEdito\obj\Debug\net9.0\TextEdito.pdb
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\Nova pasta\TextEdito\obj\Debug\net9.0\TextEdito.genruntimeconfig.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\C#\Nova pasta\TextEdito\obj\Debug\net9.0\ref\TextEdito.dll
